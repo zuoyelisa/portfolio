@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Mr. Lonely",
+    "image": "/assets/ThumbnailMrLonely.png",
+    "url": "mr_lonely"
+  },
+  {
+    "name": "Clone",
+    "image": "/assets/ThumbnailClone.png",
+    "url": "clone"
+  },
+  {
+    "name": "Match",
+    "image": "/assets/ThumbnailMatch.png",
+    "url": "match"
+  },
+  {
+    "name": "Cat and Egg",
+    "image": "/assets/ThumbnailCatAndEgg.png",
+    "url": "cat_and_egg"
+  },
+  {
+    "name": "Cake",
+    "image": "/assets/ThumbnailCake.png",
+    "url": "cake"
+  },
+  {
+    "name": "A little girl",
+    "image": "/assets/ThumbnailGirl.png",
+    "url": "a_little_girl"
+  }
+]

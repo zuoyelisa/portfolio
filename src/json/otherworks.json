@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Redesign asylum seeker's journey",
+    "image": "/assets/ThumbnailFjord.jpg",
+    "url": "journey_redesign"
+  },
+  {
+    "name": "MOE E-Megazine",
+    "image": "/assets/ThumbnailMOE.png",
+    "url": "moe"
+  },
+
+  {
+    "name": "CG Drawings",
+    "image": "/assets/ThumbnailCG.png",
+    "url": "cg"
+  },
+  {
+    "name": "Handicrafts",
+    "image": "/assets/ThumbnailHandicraft.png",
+    "url": "handicrafts"
+  },
+  {
+    "name": "Hand drawings",
+    "image": "/assets/ThumbnailDrawing.png",
+    "url": "hand_drawings"
+  },
+
+  {
+    "name": "Book design",
+    "image": "/assets/ThumbnailBookDesign.jpg",
+    "url": "book_design"
+  }
+]

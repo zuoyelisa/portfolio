@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Neosmart Health Project",
+    "image": "/assets/ThumbnailNeosmartHealth.png",
+    "url": "neosmart_health"
+  },
+  {
+    "name": "Digital Memorial",
+    "image": "/assets/ThumbnailDigitalMemorialising.png",
+    "url": "digital_memorial"
+  },
+
+  {
+    "name": "Memo Planting",
+    "image": "/assets/ThumbnailMemoPlanting.png",
+    "url": "memo_planting"
+  },
+  {
+    "name": "2016 Rio Olympics Website",
+    "image": "/assets/ThumbnailRioOlympic.png",
+    "url": "rio_website"
+  },
+  {
+    "name": "Behind the Mirror",
+    "image": "/assets/ThumbnailBehindTheMirror.png",
+    "url": "behind_the_mirror"
+  },
+
+  {
+    "name": "The Somersaults Cloud Website",
+    "image": "/assets/ThumbnailCloud.png",
+    "url": "somersaults_cloud"
+  }
+]
